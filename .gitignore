@@ -1,0 +1,15 @@
+*.o
+*.d
+*.crf
+*.dep
+*.sct
+*.htm
+*.hex
+*.iex
+*.lst
+*.ini
+*.axf
+*.Mac
+*.lnp
+*.map
+*.scvd
